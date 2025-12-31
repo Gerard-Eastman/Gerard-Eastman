@@ -1,13 +1,13 @@
-# Gerard Eastman
+# Hi, I'm Gerard Eastman
 
 I’m a Computer Science student interested in software engineering and quantitative roles.  
 Currently building: **Bee Haven** (family beekeeping business site) and other portfolio projects.
 
 ## What I’m focused on
 - SWE internships + quant internships
-- Making fun automation tools, likes my browser extension
+- Making fun automation tools
 - Building end-to-end projects
-- AI Shennanigans
+- AI experiments
 
 ## Featured projects
 - **Bee Haven** — website for a family beekeeping business  
