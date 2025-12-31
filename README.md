@@ -1,4 +1,4 @@
-# Hi, I’m Gerard 👋
+# Gerard Eastman
 
 I’m a Computer Science student interested in software engineering and quantitative roles.  
 Currently building: **Bee Haven** (family beekeeping business site) and other portfolio projects.
