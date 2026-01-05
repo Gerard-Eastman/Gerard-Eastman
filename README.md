@@ -16,6 +16,7 @@ Currently building: **Bee Haven** (family beekeeping business site) and other po
   Repo: https://github.com/Gerard-Eastman/AnySiteSearch
 - **GamePigeon Filler Optimal Move Bot** — Search-based AI for optimal gameplay  
   Tech: Python, Minimax, heuristic search
+- **PogostickProject** - Physics-driven 2D game built in Godot with custom physics
 
 ## Skills
 - **Languages:** Python, Java, C++, C, JavaScript/TypeScript, SQL
