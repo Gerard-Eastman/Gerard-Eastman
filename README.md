@@ -12,11 +12,11 @@ Currently building: **Bee Haven** (family beekeeping business site) and other po
 ## Featured projects
 - **Bee Haven** — website for a family beekeeping business  
   Repo: https://github.com/Gerard-Eastman/bee-haven
-- **AnySiteSearch** — A browser extension that allows you to bind keys to access search bars on any website
+- **AnySiteSearch** — A browser extension that allows you to bind keys to access search bars on any website   
   Repo: https://github.com/Gerard-Eastman/AnySiteSearch
 - **GamePigeon Filler Optimal Move Bot** — Search-based AI for optimal gameplay  
   Tech: Python, Minimax, heuristic search
-- **PogostickProject** - Physics-driven 2D game built in Godot with custom physics
+- **PogostickProject** - Physics-driven 2D game built in Godot with custom physics   
   Repo: https://github.com/Gerard-Eastman/PogostickProject/
 
 ## Skills
