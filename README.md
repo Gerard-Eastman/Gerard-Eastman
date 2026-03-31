@@ -4,10 +4,11 @@ I’m a Computer Science student interested in software engineering and quantita
 Currently building: **Bee Haven** (family beekeeping business site) and other portfolio projects.
 
 ## What I’m focused on
-- SWE internships + quant internships
+- 2026 internships
 - Making fun automation tools
 - Building end-to-end projects
 - AI experiments
+- 3d Printing and Design
 
 ## Featured projects
 - **Bee Haven** — website for a family beekeeping business  
@@ -19,13 +20,16 @@ Currently building: **Bee Haven** (family beekeeping business site) and other po
 - **PogostickProject** - Physics-driven 2D game built in Godot with custom physics   
   Repo: https://github.com/Gerard-Eastman/PogostickProject/
 
+
+
 ## Skills
 - **Languages:** Python, Java, C++, C, JavaScript/TypeScript, SQL
-- **Tools:** Git, Linux, Docker, MySQL, REST APIs
+- **Tools:** Git, Linux, Docker, MySQL, REST APIs, Fusion 360
 - **Core:** Data Structures, Algorithms, OOP
 
-## Contact
+## Profiles
 - LinkedIn: https://www.linkedin.com/in/gerard-eastman/
+- Makerworld: https://makerworld.com/en/@Floppypants
 
 <!--
 **Gerard-Eastman/Gerard-Eastman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
